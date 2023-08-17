@@ -6,6 +6,7 @@ public class Orders {
     private  String  ordertime;
     private  double money;
     private  User user;
+    private  string name;
 
     public Orders() {
     }
